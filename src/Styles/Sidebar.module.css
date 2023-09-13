@@ -1,0 +1,27 @@
+.container {
+  width: 96px;
+  height: 1024px;
+}
+
+.logoImage {
+  height: 48px;
+  width: 48px;
+  margin-top: 10px;
+  margin-left: 24px;
+}
+
+.modules {
+  width: 72px;
+  margin-left: 12px;
+  margin-top: 82px;
+  height: 116px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.logout {
+  width: 72px;
+  height: 50px;
+  margin-top: 694px;
+}
