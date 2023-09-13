@@ -4,6 +4,7 @@ import logo from "../assets/logo.svg";
 import homelogo from "../assets/Homelogo.svg";
 import courselogo from "../assets/Courselogo.svg";
 import logout from "../assets/logout.svg";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
@@ -13,10 +14,14 @@ const Sidebar = () => {
       </div>
       <div className={styles.modules}>
         <div>
-          <img src={homelogo} alt="home logo" />
+          <Link to="/">
+            <img src={homelogo} alt="home logo" />
+          </Link>
         </div>
         <div>
-          <img src={courselogo} alt="course logo" />
+          <Link to="/course">
+            <img src={courselogo} alt="course logo" />
+          </Link>
         </div>
       </div>
       <div className={styles.logout}>

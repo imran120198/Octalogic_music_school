@@ -1,5 +1,5 @@
 .container {
-  width: 96px;
+  width: 100px;
   height: 1024px;
   background-color: white;
 }
@@ -15,10 +15,10 @@
   width: 72px;
   margin-left: 12px;
   margin-top: 82px;
-  height: 116px;
+  height: 126px;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .logout {
