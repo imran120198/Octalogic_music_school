@@ -2,7 +2,8 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Overview from "../Pages/Overview";
 import Login from "../Pages/Login";
-import Course from "../Pages/Course";
+import { Course } from "../Pages/Course";
+
 
 const AllRoutes = () => {
   return (
