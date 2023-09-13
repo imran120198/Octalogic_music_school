@@ -1,0 +1,156 @@
+{
+  "enrollments": [
+    {
+      "Enrno": "2023001",
+      "Sname": "John Doe",
+      "Cname": "Computer Science",
+      "fees": 5000,
+      "Enrdate": "2023-09-01"
+    },
+    {
+      "Enrno": "2023002",
+      "Sname": "Jane Smith",
+      "Cname": "Electrical Engineering",
+      "fees": 5500,
+      "Enrdate": "2023-09-02"
+    },
+    {
+      "Enrno": "2023003",
+      "Sname": "Alice Johnson",
+      "Cname": "Mechanical Engineering",
+      "fees": 5200,
+      "Enrdate": "2023-09-03"
+    },
+    {
+      "Enrno": "2023004",
+      "Sname": "Bob Wilson",
+      "Cname": "Biology",
+      "fees": 4800,
+      "Enrdate": "2023-09-04"
+    },
+    {
+      "Enrno": "2023005",
+      "Sname": "Eva Adams",
+      "Cname": "Mathematics",
+      "fees": 5100,
+      "Enrdate": "2023-09-05"
+    },
+    {
+      "Enrno": "2023006",
+      "Sname": "Michael Brown",
+      "Cname": "Physics",
+      "fees": 4900,
+      "Enrdate": "2023-09-06"
+    },
+    {
+      "Enrno": "2023007",
+      "Sname": "Sophia Davis",
+      "Cname": "Chemistry",
+      "fees": 5300,
+      "Enrdate": "2023-09-07"
+    },
+    {
+      "Enrno": "2023008",
+      "Sname": "William Evans",
+      "Cname": "History",
+      "fees": 4700,
+      "Enrdate": "2023-09-08"
+    },
+    {
+      "Enrno": "2023009",
+      "Sname": "Olivia Green",
+      "Cname": "Psychology",
+      "fees": 5400,
+      "Enrdate": "2023-09-09"
+    },
+    {
+      "Enrno": "2023010",
+      "Sname": "James Harris",
+      "Cname": "English",
+      "fees": 4600,
+      "Enrdate": "2023-09-10"
+    }
+  ],
+  "registrations": [
+    {
+      "Regno": "R2023001",
+      "Fname": "John",
+      "Lname": "Doe",
+      "course": "Computer Science",
+      "totalfee": 5000,
+      "regdate": "2023-09-01"
+    },
+    {
+      "Regno": "R2023002",
+      "Fname": "Jane",
+      "Lname": "Smith",
+      "course": "Electrical Engineering",
+      "totalfee": 5500,
+      "regdate": "2023-09-02"
+    },
+    {
+      "Regno": "R2023003",
+      "Fname": "Alice",
+      "Lname": "Johnson",
+      "course": "Mechanical Engineering",
+      "totalfee": 5200,
+      "regdate": "2023-09-03"
+    },
+    {
+      "Regno": "R2023004",
+      "Fname": "Bob",
+      "Lname": "Wilson",
+      "course": "Biology",
+      "totalfee": 4800,
+      "regdate": "2023-09-04"
+    },
+    {
+      "Regno": "R2023005",
+      "Fname": "Eva",
+      "Lname": "Adams",
+      "course": "Mathematics",
+      "totalfee": 5100,
+      "regdate": "2023-09-05"
+    },
+    {
+      "Regno": "R2023006",
+      "Fname": "Michael",
+      "Lname": "Brown",
+      "course": "Physics",
+      "totalfee": 4900,
+      "regdate": "2023-09-06"
+    },
+    {
+      "Regno": "R2023007",
+      "Fname": "Sophia",
+      "Lname": "Davis",
+      "course": "Chemistry",
+      "totalfee": 5300,
+      "regdate": "2023-09-07"
+    },
+    {
+      "Regno": "R2023008",
+      "Fname": "William",
+      "Lname": "Evans",
+      "course": "History",
+      "totalfee": 4700,
+      "regdate": "2023-09-08"
+    },
+    {
+      "Regno": "R2023009",
+      "Fname": "Olivia",
+      "Lname": "Green",
+      "course": "Psychology",
+      "totalfee": 5400,
+      "regdate": "2023-09-09"
+    },
+    {
+      "Regno": "R2023010",
+      "Fname": "James",
+      "Lname": "Harris",
+      "course": "English",
+      "totalfee": 4600,
+      "regdate": "2023-09-10"
+    }
+  ]
+}
