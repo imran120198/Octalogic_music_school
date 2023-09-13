@@ -16,10 +16,7 @@ const EnrollmentTable = ({ showAll }) => {
   return (
     <div>
       <div>
-        <table
-          className="min-w-full h-auto text-left text-sm font-light"
-          style={{ backgroundColor: "white" }}
-        >
+        <table className="min-w-full h-auto text-left text-sm font-light" style={{backgroundColor:"white"}}>
           <thead className="border-b  border-stone-300">
             <tr>
               {tableHeader.map((el, id) => (

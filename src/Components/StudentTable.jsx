@@ -8,7 +8,7 @@ const StudentTable = ({ stdshow }) => {
     { title: "L. Name" },
     { title: "# Course" },
     { title: "Total Fees" },
-    { title: "Reg. Date" },
+    { title: "Reg.Date" },
   ];
 
   const EntriesToShow = stdshow ? courses.length : 5;
