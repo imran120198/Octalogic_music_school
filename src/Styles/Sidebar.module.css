@@ -1,6 +1,7 @@
 .container {
   width: 96px;
   height: 1024px;
+  background-color: white;
 }
 
 .logoImage {
